@@ -1,0 +1,62 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'seguimiento_1_estructuras 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'seguimiento_1_estructuras 1.0-SNAPSHOT API'
+com.uniquindio.edu
+com.uniquindio.edu.Collections.Ejercicio1
+com.uniquindio.edu.Collections.Ejercicio2
+com.uniquindio.edu.Collections.Ejercicio3
+com.uniquindio.edu.Collections.Ejercicio4
+com.uniquindio.edu.Collections.Ejercicio6
+com.uniquindio.edu.Collections.Ejercicio5
+com.uniquindio.edu.Collections.Ejercicio7
+com.uniquindio.edu.Collections.Ejercicio8
+com.uniquindio.edu.Collections.Ejercicio9
+com.uniquindio.edu.generics.Ejercicio1
+com.uniquindio.edu.generics.Ejercicio2
+com.uniquindio.edu.generics.Ejercicio3
+com.uniquindio.edu.generics.Ejercicio5
+com.uniquindio.edu.generics.Ejercicio4
+com.uniquindio.edu.generics.Ejercicio6
+com.uniquindio.edu.generics.Ejercicio7
+com.uniquindio.edu.generics.Ejercicio8
+com.uniquindio.edu.generics.Ejercicio9
+com.uniquindio.edu.generics.Ejercicio10
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/src/main/java = 1790178401663
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/element-list = 1790533575917
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/overview-tree.html = 1790533576004
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/index.html = 1790533576006
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/allclasses-index.html = 1790533576018
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/allpackages-index.html = 1790533576019
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/module-search-index.js = 1790533576019
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/package-search-index.js = 1790533576020
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/type-search-index.js = 1790533576020
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/member-search-index.js = 1790533576021
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/tag-search-index.js = 1790533576021
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/index-all.html = 1790533576029
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/search.html = 1790533576030
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/overview-summary.html = 1790533576031
+/home/ajolote/Documentos/Codigo/EstructurasDatos/seguimiento_1_estructuras/target/reports/apidocs/help-doc.html = 1790533576033
